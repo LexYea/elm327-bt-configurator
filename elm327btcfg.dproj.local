@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.304,=C:\Users\Aleksander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,=C:\Users\Aleksander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,C:\Users\Aleksander\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Aleksander\Desktop\ELM327 BT Configurator\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,C:\Users\Aleksander\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Aleksander\Desktop\ELM327 BT Configurator\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,C:\Users\Aleksander\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Aleksander\Desktop\ELM327 BT Configurator\elm327btcfg.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,=C:\Users\Aleksander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
